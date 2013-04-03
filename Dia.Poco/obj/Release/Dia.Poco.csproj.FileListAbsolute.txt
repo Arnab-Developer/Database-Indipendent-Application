@@ -1,0 +1,10 @@
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\bin\Release\Dia.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\bin\Release\Dia.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Release\Dia.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Release\Dia.Poco.pdb
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Poco\bin\Release\Dia.Poco.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Poco\bin\Release\Dia.Poco.pdb
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Poco\obj\Release\ResolveAssemblyReference.cache
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Poco\obj\Release\Dia.Poco.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Poco\obj\Release\Dia.Poco.pdb

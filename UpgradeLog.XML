@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DatabaseIndependentApplication">
+</Property><Property Name="Solution File" Value="D:\My Place\Git Repositaries\Database Indipendent Application\DatabaseIndependentApplication.sln">
+</Property><Property Name="Date" Value="03 April 2013">
+</Property><Property Name="Time" Value="15:38">
+</Property></Properties><Event ErrorLevel="0" Project="Dia.Poco" Source="Dia.Poco\Dia.Poco.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dia.Poco" Source="Dia.Poco\Dia.Poco.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dia.Bll" Source="Dia.Bll\Dia.Bll.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dia.Bll" Source="Dia.Bll\Dia.Bll.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dia.Dal" Source="Dia.Dal\Dia.Dal.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dia.Dal" Source="Dia.Dal\Dia.Dal.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dia.Ui" Source="Dia.Ui\Dia.Ui.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Dia.Ui" Source="Dia.Ui\Dia.Ui.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DatabaseIndependentApplication.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DatabaseIndependentApplication.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Dia.Poco" Source="Dia.Poco\Dia.Poco.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Dia.Bll" Source="Dia.Bll\Dia.Bll.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Dia.Dal" Source="Dia.Dal\Dia.Dal.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Dia.Ui" Source="Dia.Ui\Dia.Ui.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

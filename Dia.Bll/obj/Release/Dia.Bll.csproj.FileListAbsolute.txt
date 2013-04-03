@@ -1,0 +1,23 @@
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Bll.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Bll.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\obj\Release\Dia.Bll.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\obj\Release\Dia.Bll.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Dal.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Poco.dll
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Dal.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Poco.pdb
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Dal.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Poco.xml
+C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Bll\bin\Release\Dia.Bll.xml
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Bll.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Bll.pdb
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Dal.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Poco.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Dal.pdb
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Dal.xml
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Poco.pdb
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\bin\Release\Dia.Poco.xml
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\obj\Release\ResolveAssemblyReference.cache
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\obj\Release\Dia.Bll.dll
+D:\My Place\Git Repositaries\Database Indipendent Application\Dia.Bll\obj\Release\Dia.Bll.pdb

@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dia.Bll</name>
+    </assembly>
+    <members>
+        <member name="T:Dia.Bll.Student">
+            <summary>
+            The student class for bll.
+            </summary>
+        </member>
+        <member name="T:Dia.Bll.IStudent">
+            <summary>
+            The student interface for bll.
+            </summary>
+        </member>
+        <member name="M:Dia.Bll.IStudent.GetData">
+            <summary>
+            Get all student data from dal.
+            </summary>
+            <returns>The student collection.</returns>
+        </member>
+        <member name="M:Dia.Bll.Student.#ctor">
+            <summary>
+            Creates a new student object with default value.
+            </summary>
+        </member>
+        <member name="M:Dia.Bll.Student.GetData">
+            <summary>
+            Get all student data from dal.
+            </summary>
+            <returns>The student collection.</returns>
+            <exception cref="T:System.ObjectDisposedException">
+            Object is already disposed.
+            </exception>
+        </member>
+        <member name="M:Dia.Bll.Student.Dispose">
+            <summary>
+            Dispose the object.
+            </summary>
+        </member>
+        <member name="M:Dia.Bll.Student.CleanUp">
+            <summary>
+            Clean up the unmanaged recources.
+            </summary>
+        </member>
+        <member name="P:Dia.Bll.Student.IsDisposed">
+            <summary>
+            Gets the value to indicate weather the object is live or disposed.
+            </summary>
+        </member>
+    </members>
+</doc>

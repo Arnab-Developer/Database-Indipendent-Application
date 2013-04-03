@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dia.Poco</name>
+    </assembly>
+    <members>
+        <member name="T:Dia.Poco.Student">
+            <summary>
+            The student class for poco.
+            </summary>
+        </member>
+        <member name="T:Dia.Poco.IStudent">
+            <summary>
+            The student interface for poco.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.IStudent.StudentId">
+            <summary>
+            The student id.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.IStudent.Name">
+            <summary>
+            The student name.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.IStudent.Subject">
+            <summary>
+            The student subject.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.IStudent.Age">
+            <summary>
+            The student age.
+            </summary>
+        </member>
+        <member name="M:Dia.Poco.Student.#ctor">
+            <summary>
+            Creates a new student object with default values.
+            </summary>
+        </member>
+        <member name="M:Dia.Poco.Student.#ctor(System.Int32,System.String,System.String,System.Byte)">
+            <summary>
+            Creates a new student object with value provided by the user.
+            </summary>
+            <param name="studentId">The student id.</param>
+            <param name="name">The student name.</param>
+            <param name="subject">The student subject.</param>
+            <param name="age">The student age.</param>
+        </member>
+        <member name="M:Dia.Poco.Student.ToString">
+            <summary>
+            Overrides the ToString() method for string representation of student object.
+            </summary>
+            <returns>The string representation of student object.</returns>
+        </member>
+        <member name="P:Dia.Poco.Student.StudentId">
+            <summary>
+            The student id.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.Student.Name">
+            <summary>
+            The student name.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.Student.Subject">
+            <summary>
+            The student subject.
+            </summary>
+        </member>
+        <member name="P:Dia.Poco.Student.Age">
+            <summary>
+            The student age.
+            </summary>
+        </member>
+        <member name="T:Dia.Poco.Students">
+            <summary>
+            The collection of student interface.
+            </summary>
+        </member>
+    </members>
+</doc>

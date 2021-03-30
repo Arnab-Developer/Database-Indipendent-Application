@@ -1,6 +1,0 @@
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\bin\Debug\Dia.Poco.dll
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\bin\Debug\Dia.Poco.pdb
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Debug\Dia.Poco.dll
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\obj\Debug\Dia.Poco.pdb
-C:\Documents and Settings\Internet Account\My Documents\Visual Studio 2008\Projects\DatabaseIndependentApplication\Dia.Poco\bin\Debug\Dia.Poco.xml
